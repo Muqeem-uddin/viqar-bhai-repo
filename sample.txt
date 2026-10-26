@@ -1,0 +1,6 @@
+1 rose
+2 lily
+3 tulip
+4 gerbera
+5 eustoma
+6 leaves
